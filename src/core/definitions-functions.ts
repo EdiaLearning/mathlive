@@ -19,6 +19,7 @@ defineFunction(
         'cotg', // Not Latex standard. Used in France
         'csc', // Not Latex standard. \cth
         'cosec', // Not Latex standard.
+        'cis',
         'deg',
         'dim',
         'exp',

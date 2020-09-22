@@ -74,6 +74,7 @@ export const INLINE_SHORTCUTS: {
     sec: { mode: 'math', value: '\\sec' },
     csc: { mode: 'math', value: '\\csc' },
     cot: { mode: 'math', value: '\\cot' },
+    cis: { mode: 'math', value: '\\cis' },
 
     log: { mode: 'math', value: '\\log' },
     ln: { mode: 'math', value: '\\ln' },
@@ -439,7 +440,7 @@ export const INLINE_SHORTCUTS: {
     'TT':                   '\\top',
     '|--':                  '\\vdash',
     '|==':                  '\\models',
-    
+
     // Other functions
     '|__':                  '\\lfloor',
     '__|':                  '\\rfloor',

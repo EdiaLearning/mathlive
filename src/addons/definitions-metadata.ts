@@ -80,6 +80,7 @@ metadata(
         '\\tanh',
         '\\tg',
         '\\th',
+        '\\cis',
     ],
     UNCOMMON
 );

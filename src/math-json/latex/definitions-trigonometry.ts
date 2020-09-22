@@ -88,6 +88,7 @@ function parseTrig(
             '\\tanh': 'Tanh',
             '\\tg': 'Tan',
             '\\th': 'Tanh',
+            '\\cis': 'Cis',
         }[latex] ?? latex;
 
     if (isInverse) {

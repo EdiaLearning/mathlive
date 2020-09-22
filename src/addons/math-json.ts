@@ -236,6 +236,8 @@ const FUNCTION_TEMPLATE = {
     sech: '\\sech %0',
     coth: '\\coth %0',
 
+    cis: '\\cis %0',
+
     arcsin: '\\arcsin %0',
     arccos: '\\arccos %0',
     arctan: '\\arctan %0',
